@@ -53,3 +53,16 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    color: rgb(131, 131, 131);
+    text-align: center;
+  }
+  .footerbox{
+    margin-right: 20px;
+    margin-left:  20px;
+  }

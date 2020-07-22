@@ -39,6 +39,13 @@ class Main extends Component {
               <Route path="/contact" component={Contact}/>
               <Route path="/Dontact" component={Donate}/>
             </div>
+
+            <div class="footer">
+              <div classname= "footerbox">
+                <p>Copyright © 2020 The Gulf of Catalina Gray Whale Preservation & Education Foundation | All Rights Reserved 
+                <a href="https://graywhalefoundation.org/privacy-policy-terms-of-use/"> Privacy Policy & Terms of Use</a> | Website by <a href="http://https://breomedia.com"> Breo Media</a></p>
+              </div>
+            </div>
           </div>
         </HashRouter>
       );
