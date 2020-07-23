@@ -4,7 +4,7 @@ class Stuff extends Component {
   render() {
     return (
       <div>
-        <h2>THE HOURGLASS DOLPHIN</h2>
+        <h1 className= "pageSubtitles">THE HOURGLASS DOLPHIN</h1>
         
           <p>Mistaken for Killer Whales</p>
           <p>Only dolphin to swin south of Antarctic convergence</p>

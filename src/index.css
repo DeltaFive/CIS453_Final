@@ -5,7 +5,8 @@ body {
   }
   h1, h2, p, ul, li {
       text-align: center;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
   }
   ul.header li {
     display: inline;
@@ -41,11 +42,17 @@ body {
     padding: 20px;
     display: inline-block;
   }
-  img.logo{
+  img.logo {
     display: block;
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+  }
+    img.wide {
+      display: block;
+      width: 1700px;
+      margin-left: auto;
+      margin-right: auto;
   }
   img.done{
     transform: scale(0.9);
@@ -66,3 +73,31 @@ body {
     margin-right: 20px;
     margin-left:  20px;
   }
+  .pageSubtitles{
+    background-color:rgb(25, 60, 83);
+    text-align: left;
+    font-family:'Montserrat';
+    text-transform:uppercase;color:#ffffff;
+  }
+  .center { 
+    background-color: #17385e;
+    color: white;
+    padding: 15px 32px;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+.centerthis {
+  color: white;
+  text-align: center;
+  text-decoration-color: rgb(240, 240, 240);
+}
+p.fancie {
+  font-size: 15px;
+  line-height: 25px;
+
+}

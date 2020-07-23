@@ -4,7 +4,7 @@ class TripSummaries extends Component {
   render() {
     return (
       <div>
-        <h2>TRIP SUMMARIES</h2>
+        <h1 className= "pageSubtitles">TRIP SUMMARIES</h1>
         <p>Read our captain and marine naturalist’s latest trip summaries below.</p>
         <ol>
           <li>Trip 10 May 24, 2019 ---- Todd Mansur Captain / 88 / Departure 10:00 am</li>

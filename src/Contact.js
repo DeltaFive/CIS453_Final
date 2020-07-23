@@ -4,7 +4,7 @@ class Contact extends Component {
   render() {
     return (
       <div>
-        <h2>GOT QUESTIONS?</h2>
+        <h1 className= "pageSubtitles">GET IN TOUCH WITH US</h1>
         <p>The easiest thing to do is contact us at
      <a href="http://fake.site.com"> FAKESITE</a>.
         </p>

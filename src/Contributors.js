@@ -4,7 +4,7 @@ class Contributors extends Component {
   render() {
     return (
       <div>
-        <h2>CONTRIBUTORS</h2>
+        <h1 className= "pageSubtitles">CONTRIBUTORS</h1>
         <p>Thank you for your contributions!</p>
       </div>
     );

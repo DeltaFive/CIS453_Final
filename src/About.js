@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     return (
       <div>
-        <h2>ABOUT OUR FOUNDATION</h2>
+        <h1 className= "pageSubtitles">ABOUT US</h1>
 <img src="FINALSTIME.jpg" alt="our foundation" class="done"></img>
         <p>The Drake Passage Dolphin Preservation & Education Foundation (DPDPEF) educates children on the importance of the Hourglass Dolphin by creating an opportunity for students to engage in research.
 
