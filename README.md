@@ -1,1 +1,1 @@
-Gray Whale Submission by Pier Stoddard. 4 edits.
+Gray Whale Submission by Pier Stoddard. edit4.
